@@ -1,2 +1,6 @@
 # project.site.recediviz
-Макет сайта Recediviz
+## Макет сайта Recediviz
+
+- Desktop-версия
+- Применение псевдоклассов и псевдоэлементов
+
