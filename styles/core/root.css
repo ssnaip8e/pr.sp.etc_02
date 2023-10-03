@@ -1,0 +1,44 @@
+
+:root {
+	/* colors */
+	--bg: #FFF;
+	--on-bg: #003331;
+	--on-bg-variant: rgba(53, 83, 98, 0.80);
+	--on-image: #FFF;
+  --on-image-variant: #014C48;
+	--surface: #F4F5F5;
+	--on-surface: #003331;
+	--on-surface-variant: rgba(53, 83, 98, 0.80);
+	--surface-dark: #001414;
+	--surface-variant: #001F1F;
+	--on-surface-dark: #EDECEB;
+	--on-surface-dark-variant: #7D9798;
+	--divider: #D9D9D9;
+	--border-color-on-light: rgba(53, 83, 98, 0.30);
+	--border-color-on-dark: rgba(255, 255, 255, 0.30);
+
+	/* border styles */
+	--border-radius: 80px;
+	--border-rounded: 50%;
+	--border-style: solid;
+	--border-width: 1px;
+	--divider-height: 8px;
+
+	/* box-sizing */
+	--container: 1152px;
+	--button-padding-block: 17px;
+	--button-padding-inline: 33px;
+
+	/* fonts */
+	--fsize-button: 13px;
+	--lheight-button: 20px;
+	--fsize-link-header: 13px;
+	--lheight-link-header: 16px;
+	--fsize-text: 15px;
+	--lheight-text: 24px;
+	--lheight-link-footer: 30px;
+	--fsize-link-footer: 15px;
+	--lspacing-title: 1.2;
+  --fweight: 500;
+
+}
