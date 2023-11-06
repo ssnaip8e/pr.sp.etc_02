@@ -280,6 +280,7 @@
 
 .section__sistems {
   display: flex;
+  justify-content: center;
   height: 640px;
   overflow: hidden;
 }
