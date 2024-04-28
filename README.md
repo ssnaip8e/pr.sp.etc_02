@@ -1,4 +1,5 @@
-# project.site.recediviz
+# project.single-page.others_02
+
 ## Макет сайта Recediviz
 
 - Desktop-версия
