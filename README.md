@@ -1,4 +1,4 @@
-# project.single-page.others(02)
+> project.single-page.others(02)
 
 ## Макет сайта Recediviz
 
